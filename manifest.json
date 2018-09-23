@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "github-diff-recolorer",
+  "version": "0.0.1",
+  "icons": {
+    "16":  "images/icon16.png"
+  },
+  "content_scripts": [{
+    "matches": ["https://github.com/*"],
+    "css": ["css/recolorer.css"]
+  }]
+}
