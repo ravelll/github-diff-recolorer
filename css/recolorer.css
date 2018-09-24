@@ -1,15 +1,20 @@
 .blob-num-deletion {
-  background-color: #FECFCF !important;
+  background-color: #FFC6C6 !important;
 }
 
 .blob-code-deletion {
-  background-color: #FECFCF !important;
+  background-color: #FFE0E0 !important;
 }
 
 .blob-num-addition {
-  background-color: #A2FFB7 !important;
+  background-color: #A5FFB9 !important;
 }
 
 .blob-code-addition {
-  background-color: #A2FFB7 !important;
+  background-color: #B6FFC6 !important;
+}
+
+.blob-code-addition
+.x {
+  background-color: #92DFA3 !important;
 }
