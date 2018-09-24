@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "github-diff-recolorer",
+  "description": "Recoloring diff on the GitHub's file changed page.",
   "version": "0.0.1",
   "icons": {
     "16":  "images/icon16.png"
